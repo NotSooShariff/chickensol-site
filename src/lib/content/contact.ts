@@ -7,5 +7,5 @@ export const contactSection: ContactSectionType = {
     'I’m currently looking for a remote job or any new opportunities.',
     'Whether you have a project to discuss or just want to say hi, my inbox is open for all!',
     ],
-    link: ``,
+    link: `https://t.me/ChickenSol`,
 };

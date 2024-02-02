@@ -8,6 +8,6 @@ export const navbarSection: NavbarSectionType = {
     ],
     cta: {
         title: 'buy now',
-        url: `#`,
+        url: `https://birdeye.so/token/3VPirK8MvNsRL26ABnFxgERvBBcNzzcqXjcMMp9MD2VD?chain=solana`,
     },
 }

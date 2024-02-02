@@ -15,10 +15,10 @@ const About = () => {
 
   return domLoaded ? (
     <Wrapper id="about" {...getSectionAnimation}>
-      <h2 className="heading-secondary text-center">About $CHICKEN</h2>
+      <h2 className="heading-secondary text-center">About $CHIKEN</h2>
       <main className="flex flex-col mx-auto items-center gap-16 lg:items-start lg:flex-row">
           <p className='text-center'>
-          Welcome to the coop! $CHICKEN isn't just another memecoin; it's a movement. Born from the zest of community and a dash of humor, we're here to spice up the crypto space. Inspired by the soaring success of $PORK, we thought, why not bring something even more relatable and loved to the table? After all, chicken is a global favorite, crossing cultures and cuisines - much like the universal appeal we see in $CHICKEN.
+          Welcome to the coop! $CHIKEN isn't just another memecoin; it's a movement. Born from the zest of community and a dash of humor, we're here to spice up the crypto space. Inspired by the soaring success of $PORK, we thought, why not bring something even more relatable and loved to the table? After all, chicken is a global favorite, crossing cultures and cuisines - much like the universal appeal we see in $CHIKEN.
           </p>
       </main>
     </Wrapper>

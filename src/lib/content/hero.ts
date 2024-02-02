@@ -9,7 +9,7 @@ export const heroSection: HeroSectionType = {
     specialText: '123',
     cta: {
         title: 'Buy Now',
-        url: ``,
+        url: `https://birdeye.so/token/3VPirK8MvNsRL26ABnFxgERvBBcNzzcqXjcMMp9MD2VD?chain=solana`,
         hideInDesktop: true,
     },
 };

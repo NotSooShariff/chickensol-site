@@ -15,10 +15,10 @@ const Contact = () => {
       <h2 className="heading-secondary !mb-5">Join the Flock</h2>
 
         <p>
-          Ready to take flight with $CHICKEN? Our community is the heart and soul of this journey. Connect with fellow enthusiasts, share memes, and be part of the conversation that's setting the crypto world abuzz. $CHICKEN is not just a coin; it's a community, and every member is a key ingredient in this recipe for success.
+          Ready to take flight with $CHIKEN? Our community is the heart and soul of this journey. Connect with fellow enthusiasts, share memes, and be part of the conversation that's setting the crypto world abuzz. $CHIKEN is not just a coin; it's a community, and every member is a key ingredient in this recipe for success.
         </p>
 
-      <Button type="link" size="lg" href='chickensol.com' center className="mt-12">
+      <Button type="link" size="lg" href='https://t.me/ChickenSol' center className="mt-12">
         Say Hello
       </Button>
     </Wrapper>

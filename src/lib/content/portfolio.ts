@@ -7,25 +7,25 @@
 import { StringKeyValueType } from '../types';
 
 export const socialLinks: StringKeyValueType = {
-  facebook: 'https://www.facebook.com/vatsalsinghkv',
-  instagram: 'https://www.instagram.com/vatsalsinghkv',
-  twitter: 'https://twitter.com/vatsalsinghkv',
-  github: 'https://github.com/vatsalsinghkv',
-  linkedin: 'https://www.linkedin.com/in/vatsalsinghkv/',
+  facebook: 'https://www.facebook.com/',
+  instagram: 'https://www.instagram.com/',
+  twitter: 'https://twitter.com/',
+  github: 'https://github.com/',
+  linkedin: 'https://www.linkedin.com/in/',
 };
 
 export const author = {
-  name: '$CHICKEN',
+  name: '$CHIKEN',
   email: '',
 };
 
 export const seoData = {
-  title: '$CHICKEN',
+  title: '$CHIKEN',
   description:
-    'Savor the Richness of $CHICKEN, Where Every Bite Takes You Higher, Juicier than $PORK 😉',
+    'Savor the Richness of $CHIKEN, Where Every Bite Takes You Higher, Juicier than $PORK 😉',
   author: author.name,
   image:
-    '',
+    'https://raw.githubusercontent.com/NotSooShariff/chickensol-site/main/public/chicken-social.png',
   url: 'https://chickensol.com/',
   keywords: [
     'Chicken Sol',
